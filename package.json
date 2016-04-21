@@ -1,6 +1,6 @@
 {
   "name": "hellosmiling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test for node publishing",
   "main": "index.js",
   "scripts": {
